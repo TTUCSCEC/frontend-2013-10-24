@@ -11,5 +11,5 @@ TTUCSC Frontend 第二堂
         * grunt-cli
         * grunt
         * grunt-contrib-watch
-            * stylus 本身 watch 的作法
+            * stylus 本身 watch 的作法 [#L595](https://github.com/LearnBoost/stylus/blob/a5aa0fa8e6e43fa93396d9a72b9e3e9eb9369af2/bin/stylus#L595)
             * grunt 的作法
