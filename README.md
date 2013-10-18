@@ -10,4 +10,4 @@ TTUCSC Frontend 第二堂
     * 閱讀 grunt 程式碼，了解 grunt 背後所作的事情
         * grunt-cli
         * grunt
-        * grunt-contrib-watch (nodejs 本身 fs.watch 的問題)
+        * grunt-contrib-watch
